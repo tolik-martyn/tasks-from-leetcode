@@ -1,4 +1,4 @@
-import valid_parentheses.Solution;
+import sqrt_x.Solution;
 
 public class Main {
     public static void main(String[] args) {
